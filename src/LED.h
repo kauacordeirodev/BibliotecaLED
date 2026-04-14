@@ -21,7 +21,7 @@ private:
     uint32_t tempoAnteriorPiscar;
     uint32_t tempoEspera;
     bool estadoPiscar;
-    uint8_t repeticoes;
+    uint16_t repeticoes;
 
     /**
      * @brief Processa a lógica de piscada do LED.

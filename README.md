@@ -6,7 +6,7 @@ O diferencial desta biblioteca é a sua **lógica de estado determinística**: q
 
 ---
 
-## 🚀 Funcionalidades
+## ✨ Funcionalidades
 
 * **Controle Não-Bloqueante:** Gerenciamento de tempo via `millis()`, eliminando o uso de `delay()` e mantendo o processamento livre.
 * **Modo Piscar:** Permite definir a frequência em Hertz (Hz) e o número exato de repetições.

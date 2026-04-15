@@ -36,3 +36,17 @@ O diferencial desta biblioteca é a sua **lógica de estado determinística**: q
 | `piscar(freq)` | Inicia o piscar contínuo na frequência desejada (Hz). |
 | `piscar(freq, n)` | Pisca na frequência definida por `n` vezes e para. |
 | `update()` | Atualiza o estado físico do pino e processa temporizadores. |
+
+---
+
+## 📦 Estrutura da biblioteca
+
+```text
+LED/
+├── library.json
+├── README.md
+├── LICENSE
+├── src/
+│   ├── LED.h
+│   └── LED.cpp
+└── examples/

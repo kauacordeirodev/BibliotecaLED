@@ -1,3 +1,9 @@
+//EXEMPLO 04
+/**
+ * Descrição: Este exemplo demonstra a alteração de estado do LED ao pressionar o botão.
+ */
+
+
 #include <Arduino.h>
 #include "LED.h"
 

@@ -1,3 +1,8 @@
+//EXEMPLO 01
+/**
+ * Descrição: Este exemplo demonstra o LED piscando na frequencia padrão de 1 hertz.
+ */
+
 #include <Arduino.h>
 #include "LED.h"
 

@@ -1,3 +1,9 @@
+//EXEMPLO 05
+/**
+ * Descrição: Este exemplo demonstra o LED acionando por um tempo determinado pelo usuário, após o final desse tempo o LED desliga.
+ */
+
+
 #include <Arduino.h>
 #include "LED.h"
 

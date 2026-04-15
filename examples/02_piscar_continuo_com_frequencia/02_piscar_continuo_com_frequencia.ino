@@ -1,3 +1,9 @@
+//EXEMPLO 02
+/**
+ * Descrição: Este exemplo demonstra o LED piscando na frequencia que o usuário escolher.
+ */
+
+
 #include <Arduino.h>
 #include "LED.h"
 
